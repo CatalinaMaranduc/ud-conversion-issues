@@ -1,0 +1,4 @@
+Numesc subordonate relative propozitiile subordonate introduse de un element relativ: pronume, adjectiv, adverb.
+Dintre limbile care au aderat la UD, engleza, finlandeza, greaca, irlandeza si suedeza marcheaza subordonatele relative cu o eticheta aparte: acl:relcl. Dupa cum se deduce din nume, este un subtip al lui acl.
+Intrebarea este: avem nevoie neaparat de aceasta relatie?
+Sa tinem cont de faptul ca subordonatele relative sunt usor de identificat automat prin cautarea elementului relativ, fie printr-o metoda ce foloseste elemente lexicale, fie elemente morfologice.
